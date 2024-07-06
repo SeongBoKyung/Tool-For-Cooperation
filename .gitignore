@@ -1,0 +1,5 @@
+# node_modules 폴더를 제외
+node_modules/
+
+# 환경 변수 파일을 제외
+.env
