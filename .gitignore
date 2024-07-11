@@ -3,3 +3,4 @@ node_modules/
 
 # 환경 변수 파일을 제외
 .env
+generateSecret.js
